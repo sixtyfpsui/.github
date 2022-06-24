@@ -3,7 +3,11 @@
 
 SixtyFPS [was renamed](https://slint-ui.com/blog/sixtyfps-becomes-slint.html) **Slint**
 
-[![Home Page](https://img.shields.io/badge/Home%20Page-slint--ui.com-blue?style=social)](https://slint-ui.com)
+- New organisation: https://github.com/slint-ui
+- Homepage: https://slint-ui.com
+- Main Repository: https://github.com/slint-ui/slint
+
+
 [![Repository](https://img.shields.io/github/stars/slint-ui?style=social)](https://github.com/slint-ui/slint)
 [![Twitter](https://img.shields.io/twitter/follow/slint_ui?style=social)](https://twitter.com/slint_ui)
 
